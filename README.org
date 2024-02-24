@@ -1,0 +1,10 @@
+* trial-assets
+
+Assets for the trial game engine.
+
+|---------+-------------------------------------------------------|
+| source  | git-lsf:https://github.com/Shirakumo/trial-assets.git |
+| commit  | 669945b                                               |
+| systems | trial-assets                                          |
+|---------+-------------------------------------------------------|
+
