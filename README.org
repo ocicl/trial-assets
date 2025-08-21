@@ -3,7 +3,7 @@
 Assets for the trial game engine.
 
 |---------+-------------------------------------------------------|
-| source  | git-lfs:https://github.com/Shirakumo/trial-assets.git |
+| source  | git-lfs:https://codeberg.org/shirakumo/trial-assets.git |
 | commit  | 0a8e494                                               |
 | systems | trial-assets                                          |
 |---------+-------------------------------------------------------|
