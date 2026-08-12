@@ -7,4 +7,4 @@ Assets for the trial game engine.
 | commit  | 0a8e494                                               |
 | systems | trial-assets                                          |
 |---------+-------------------------------------------------------|
-  
+   
